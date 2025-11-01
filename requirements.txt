@@ -1,1 +1,8 @@
-mlflow scikit-learn tensorflow pandas numpy matplotlib seaborn openml
+mlflow
+scikit-learn
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+openml
