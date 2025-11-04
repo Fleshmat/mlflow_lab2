@@ -1,0 +1,4 @@
+tags.mlflow.runName,metrics.accuracy,metrics.f1_score,params.C,params.max_iter,tags.author
+keras_autologging,0.9010840058326721,,,,
+logistic_regression_manual,0.8738170347003155,0.8076923076923077,1.0,500,Grupo_MLOps
+bittersweet-ray-213,,,,,
